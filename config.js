@@ -4,12 +4,12 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['558881647724', 'marcoskz_', true],
+  ['558881647724', 'anabanana', true],
   ['61488873561']
 ] //Numeros dos donos
 
-global.mods = ['558881647724'] 
-global.prems = ['558881647724', '558881647724']
+global.mods = ['5595991487177'] 
+global.prems = ['5595991487177', '5595991487177']
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',
@@ -54,7 +54,7 @@ global.marcosgpt = [gpt1, gpt2, gpt3, gpt4, gpt5, gpt6, gpt7]
 
 // Sticker PackName
 global.packname = '🤖 𝚂𝙾𝚈𝚄𝚉-𝙱𝙾𝚃-𝙼𝙳' 
-global.author = 'user' 
+global.author = 'ana banana' 
 
 //--info
 global.botName = 'Vladivostok'
